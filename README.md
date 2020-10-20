@@ -1,3 +1,3 @@
-# Recriando a página inicial do Instagram
+# Recriando a Interface do Netflix
 
-Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.
+Recriando a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto há estruturação de layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
